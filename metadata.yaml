@@ -1,9 +1,13 @@
 _repo: Warwickshire-The-Land-of-Shakespeare_47361
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Whitehead, Fred
     gutenberg_agent_id: '44277'
     url: http://www.gutenberg.org/2009/agents/44277
+covers:
+- cover_type: archival
+  image_path: 47361-h/images/cover.jpg
 creator:
   author:
     agent_name: Holland, Clive
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '40880'
     url: http://www.gutenberg.org/2009/agents/40880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47361#Warwickshire-The-Land-of-Shakespeare
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
